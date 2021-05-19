@@ -10,3 +10,5 @@ adding new line to create conflict
 lets see what happens
 
 second conflict
+
+this time resolving conflicts with stash
