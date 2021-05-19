@@ -8,3 +8,5 @@ now adding line to check sync/get functionality
 adding new line to create conflict
 
 lets see what happens
+
+second conflict
